@@ -1,6 +1,5 @@
 # Awesome Long-Chain-of-Thought Reasoning with Tools 🤖️⛓️🛠️ (中文)
 
-[](https://www.google.com/search?q=%5Bhttps://awesome.re%5D\(https://awesome.re\))
 
 一个精选的、关于**带工具的长链思维推理 (Long Chain-of-Thought Reasoning with Tools)** 的前沿研究论文和资源的列表。
 
