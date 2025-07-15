@@ -38,6 +38,12 @@
   - 💻 **代码:** [https://github.com/StigLidu/DualDistill](https://www.google.com/search?q=https://github.com/StigLidu/DualDistill)
   - **摘要:** 为解决纯文本推理和工具增强智能体各自的短板，该工作提出了 **DualDistill** 框架，将多个教师模型的互补推理策略（文本推理与工具使用）蒸馏到一个统一的学生模型中。由此训练出的 **Agentic-R1** 能够为每个查询动态选择最优策略：对算术和算法问题调用工具，对抽象问题使用文本推理。这种多策略蒸馏方法在计算密集型和标准基准测试中均提高了准确性，实现了强大而高效的推理。
 
+### AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models
+
+  - 📄 **论文:** [https://arxiv.org/abs/2504.16891](https://arxiv.org/abs/2504.16891)
+  - 💻 **代码:** [https://github.com/NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills)
+  - **摘要:** 本文展示了AIMO-2竞赛的获奖方案，该方案依赖于三大支柱。首先，创建了一个名为 **OpenMathReasoning** 的大规模数据集，包含54万个高质量数学问题和320万个推理解决方案。其次，开发了一种新颖的方法，通过迭代训练、生成和质量过滤，将代码执行与推理模型相结合，最终产出170万个高质量的**工具集成推理解决方案**。第三，创建了一个名为 **GenSelect** 的流程，训练模型从多个候选中选择最有希望的解决方案，显著优于多数投票基线。该工作开源了其数据集、代码和模型，以促进后续研究。
+
 -----
 
 ## 🧠 基于强化学习的方法
