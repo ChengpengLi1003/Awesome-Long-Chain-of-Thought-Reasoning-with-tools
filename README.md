@@ -1,7 +1,3 @@
-Of course, here is the formatted version of your list. I've standardized the headings, lists, and links to ensure they are consistent and render correctly in Markdown.
-
------
-
 # Awesome Long-Chain-of-Thought Reasoning with Tools 🤖️⛓️🛠️
 
 [](https://awesome.re)
