@@ -86,12 +86,12 @@
 
 ### WebSailor: Navigating Super-human Reasoning for Web Agent
 
-	- 📄 论文: https://arxiv.org/pdf/2507.02592
-	- 💻 代码: https://github.com/Alibaba-NLP/WebAgent
-	- 摘要: 该研究工作认为，超人智能体推理的关键在于当导航广阔信息空间时，能够系统性地减少极端不确定性。为此，论文引入了 WebSailor，一个完整的后训练方法论来灌输这种关键能力。该方法包括通过结构化采样和信息混淆生成新的高不确定性任务、RFT冷启动，以及一种高效的智能体强化学习算法——复制采样策略优化（DUPO）。WebSailor在复杂信息搜集任务中的表现显著优于所有开源智能体，达到了与闭源智能体相当的性能。
+  - 📄 论文: https://arxiv.org/pdf/2507.02592
+  - 💻 代码: https://github.com/Alibaba-NLP/WebAgent
+  - 摘要: 该研究工作认为，超人智能体推理的关键在于当导航广阔信息空间时，能够系统性地减少极端不确定性。为此，论文引入了 WebSailor，一个完整的后训练方法论来灌输这种关键能力。该方法包括通过结构化采样和信息混淆生成新的高不确定性任务、RFT冷启动，以及一种高效的智能体强化学习算法——复制采样策略优化（DUPO）。WebSailor在复杂信息搜集任务中的表现显著优于所有开源智能体，达到了与闭源智能体相当的性能。
 
 ### WebDancer: Towards Autonomous Information Seeking Agency
 
-	- 📄 论文: https://arxiv.org/pdf/2505.22648
-	- 💻 代码: https://github.com/Alibaba-NLP/WebAgent
-	- 摘要: 这项工作提出了一个用于构建端到端智能体信息搜集代理的统一范式。该方法包含四个关键阶段：（1）构建网页浏览数据，（2）轨迹采样，（3）用于有效冷启动的监督微调，以及（4）用于增强泛化能力的强化学习。该框架被实例化为一个名为 WebDancer 的网页智能体。在GAIA和WebWalkerQA等具有挑战性的信息搜集基准上的评估，证明了WebDancer的强大性能和该训练范式的有效性。
+  - 📄 论文: https://arxiv.org/pdf/2505.22648
+  - 💻 代码: https://github.com/Alibaba-NLP/WebAgent
+  - 摘要: 这项工作提出了一个用于构建端到端智能体信息搜集代理的统一范式。该方法包含四个关键阶段：（1）构建网页浏览数据，（2）轨迹采样，（3）用于有效冷启动的监督微调，以及（4）用于增强泛化能力的强化学习。该框架被实例化为一个名为 WebDancer 的网页智能体。在GAIA和WebWalkerQA等具有挑战性的信息搜集基准上的评估，证明了WebDancer的强大性能和该训练范式的有效性。
