@@ -2,7 +2,7 @@
 
 [](https://awesome.re)
 
-[English] | [中文](https://www.google.com/search?q=READ_CN.md)
+[English] | [中文](READ_CN.md)
 
 -----
 
