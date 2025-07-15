@@ -42,6 +42,13 @@ These methods use cleverly designed hints or efficient fine-tuning frameworks to
   * 💻 **Code:** [https://github.com/StigLidu/DualDistill](https://github.com/StigLidu/DualDistill)
   * **Abstract:** To address the respective shortcomings of pure text-based reasoning and tool-augmented agents, this work introduces the **DualDistill** framework. It distills complementary reasoning strategies (textual reasoning and tool use) from multiple teacher models into a single student model. The resulting **Agentic-R1** can dynamically select the optimal strategy for each query: invoking tools for arithmetic and algorithmic problems, and using text-based reasoning for abstract ones. This multi-strategy distillation approach improves accuracy across a range of tasks, achieving robust and efficient reasoning.
 
+### AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models
+
+  * 📄 **Paper:** [https://arxiv.org/abs/2504.16891](https://arxiv.org/abs/2504.16891)
+  * 💻 **Code:** [https://github.com/NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills)
+  * **Abstract:** This paper presents the winning solution to the AIMO-2 competition, based on three pillars. First, the creation of **OpenMathReasoning**, a large-scale dataset with 540K high-quality math problems and 3.2M reasoning solutions. Second, a novel method to integrate code execution with reasoning models through iterative training, generation, and quality filtering, resulting in 1.7M **Tool-Integrated Reasoning** solutions. Third, a pipeline called **GenSelect** to train models to select the most promising solution from many candidates, significantly improving over majority voting. The work releases the dataset, code, and models to facilitate further research.
+
+
 -----
 
 ## 🧠 Reinforcement Learning Methods
