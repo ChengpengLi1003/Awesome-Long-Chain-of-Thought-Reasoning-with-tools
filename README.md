@@ -44,10 +44,9 @@ These methods use cleverly designed hints or efficient fine-tuning frameworks to
 
 ### AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models
 
-  * 📄 **Paper:** [https://arxiv.org/abs/2504.16891](https://arxiv.org/abs/2504.16891)
-  * 💻 **Code:** [https://github.com/NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills)
-  * **Abstract:** This paper presents the winning solution to the AIMO-2 competition, based on three pillars. First, the creation of **OpenMathReasoning**, a large-scale dataset with 540K high-quality math problems and 3.2M reasoning solutions. Second, a novel method to integrate code execution with reasoning models through iterative training, generation, and quality filtering, resulting in 1.7M **Tool-Integrated Reasoning** solutions. Third, a pipeline called **GenSelect** to train models to select the most promising solution from many candidates, significantly improving over majority voting. The work releases the dataset, code, and models to facilitate further research.
-
+  * 📄 **Paper:** [https://arxiv.org/abs/2504.16891](https://arxiv.org/abs/2504.16891)
+  * 💻 **Code:** [https://github.com/NVIDIA/NeMo-Skills](https://github.com/NVIDIA/NeMo-Skills)
+  * **Abstract:** This paper presents the winning solution to the AIMO-2 competition, based on three pillars. First, the creation of **OpenMathReasoning**, a large-scale dataset with 540K high-quality math problems and 3.2M reasoning solutions. Second, a novel method to integrate code execution with reasoning models through iterative training, generation, and quality filtering, resulting in 1.7M **Tool-Integrated Reasoning** solutions. Third, a pipeline called **GenSelect** to train models to select the most promising solution from many candidates, significantly improving over majority voting. The work releases the dataset, code, and models to facilitate further research.
 
 -----
 
